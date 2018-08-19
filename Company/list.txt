@@ -1,7 +1,13 @@
 
 
-テクリコ
-あっと
-ファイズ
-フジクラ
-compass
+テクリコ,0
+あっと,1
+ファイズ,0
+フジクラ,0
+compass,0,0819
+healthy IO
+alpha tau medical
+heca bio
+million steps
+IVC research center
+アドバンスト　メディア

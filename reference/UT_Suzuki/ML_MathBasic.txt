@@ -1,0 +1,9 @@
+社会人向け講座　データ分析者養成コース
+機械学習技術とその数理基盤
+
+day1
+http://ibis.t.u-tokyo.ac.jp/suzuki/lecture/2018/ML_Gairon/ML_Gairon_01.pdf
+
+day2
+http://ibis.t.u-tokyo.ac.jp/suzuki/lecture/2018/ML_Gairon/ML_Gairon_02_mod.pdf
+
